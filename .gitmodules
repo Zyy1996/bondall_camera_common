@@ -1,3 +1,6 @@
 [submodule "third_party/openssl"]
 	path = third_party/openssl
 	url = https://github.com/openssl/openssl.git
+[submodule "third_party/ZBar"]
+	path = third_party/ZBar
+	url = https://github.com/Zyy1996/ZBar.git

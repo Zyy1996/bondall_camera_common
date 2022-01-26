@@ -7,3 +7,6 @@
 [submodule "third_party/libev"]
 	path = third_party/libev
 	url = https://github.com/Zyy1996/libev.git
+[submodule "third_party/json-c"]
+	path = third_party/json-c
+	url = https://github.com/Zyy1996/json-c.git
